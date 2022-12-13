@@ -43,5 +43,6 @@ Here's a sentence with a footnote2. [^2]
 
 ## Заключение
 
-окончание
+
+изменения
 
