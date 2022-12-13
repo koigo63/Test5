@@ -32,7 +32,10 @@ _**asdas**_
 
 ## Работа с таблицами
 
-## Цитаты
+## Сноски
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
 
 ## Заключение
 
