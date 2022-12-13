@@ -7,8 +7,6 @@
 **asdas**
 
 _**asdas**_
-=======
-
 
 ## Списки
 * wew
@@ -26,10 +24,9 @@ _**asdas**_
 ![gfer](паук.jpg)
 
 
->>>>>>> pics
 ## Ссылки
-* asdfa
-* dgsd
+[Markdown Guide](https://www.markdownguide.org)
+
 ## Работа с таблицами
 
 ## Цитаты
