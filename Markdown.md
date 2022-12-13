@@ -20,6 +20,13 @@ _**asdas**_
 ## Работа с изображениями
 
 ![Los](Los.jpg)
+
+![cat](cat.jpg)
+
+![gfer](паук.jpg)
+
+
+>>>>>>> pics
 ## Ссылки
 * asdfa
 * dgsd
