@@ -26,7 +26,6 @@ _**asdas**_
 ![gfer](паук.jpg)
 
 
->>>>>>> pics
 ## Ссылки
 * asdfa
 * dgsd
