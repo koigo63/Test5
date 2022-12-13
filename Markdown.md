@@ -27,6 +27,9 @@ _**asdas**_
 ## Ссылки
 [Markdown Guide](https://www.markdownguide.org)
 
+[GeekBrains](https://gb.ru/)
+
+
 ## Работа с таблицами
 
 ## Цитаты
